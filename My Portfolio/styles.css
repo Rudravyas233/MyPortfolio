@@ -210,7 +210,7 @@ nav ul li a {
 
 nav ul li a:hover,
 nav ul li a.active {
-    background: #ff9800;
+    background:  #0f0a0400;
     border-radius: 5px;
 }
 
